@@ -1,0 +1,23 @@
+Junior Frontend Fejlesztő online tesztsor
+
+
+A junior frontend fejlesztő olyan személy, aki kezdő szinten dolgozik a webes fejlesztés területén, különös hangsúlyt fektetve a felhasználói felület (UI) kialakítására és az ügyféloldali fejlesztésre. A junior frontend fejlesztők általában rendelkeznek alapvető ismeretekkel HTML, CSS és JavaScript terén, valamint ismerik a böngészők működését és az alapvető webfejlesztési eszközöket. Ők azok, akik segítik az alkalmazások és weboldalak külcsínének és interaktivitásának létrehozását, és képesek együttműködni a tervezőkkel és a fejlesztőkkel, hogy a felhasználói élményt fokozzák.
+
+A tesztsorok az alábbi modulokból épülnek fel:
+
+HTML leíró nyelv
+CSS leíró nyelv
+Boostrap keretrendszer
+JavasScript Programozási nyelv
+TypeScript Programozási nyelv
+Verziókövető alkalmazás alapismeretek
+Angular keretrendszer alapjai
+Adatbázis kezelés alapismeretek
+
+Összesen 40 db feleletválasztásos tesztkérdés van, amiből egyszerre csak az egyik megoldás jó, és itt kell elérni legalább az 51%-ot, azaz legalább 21 kérdésre sikeresen kell válaszolni.
+
+
+További források
+
+Frontend fejlesztő
+Web fejlesztő
